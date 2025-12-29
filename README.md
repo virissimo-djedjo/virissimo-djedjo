@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Olá, o meu nome é `Virissimo Djedjo`👋
+Sou estudante de `Engenharia de Software` na `UDESC`, sou muito apaixonado pela programação, faço projetos pessoais com tecnologia `NODE.JS` com auxilio de ORM sequelize.
 <!--
 **virissimo-djedjo/virissimo-djedjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

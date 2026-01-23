@@ -1,8 +1,8 @@
 ## Oiii 👋 eu sou o Virissimo Djedjo  
-💻 Desenvolvedor Backend | Node.js | Express | Sequelize 
+💻 Desenvolvedor Backend | Node.js | Express | Sequelize | 
 
 Sou apaixonado por tecnologia e desenvolvimento backend.  
-Atualmente trabalho e estudo com **Node.js, Express, Sequelize, MySQL**, focando na criação de APIs, autenticação e regras de negócio bem definidas 🚀  
+Trabalho com criação de **APIs REST**, autenticação, regras de negócio e integração com banco de dados, sempre focando em boas práticas 🚀  
 
 ---
 
@@ -16,31 +16,29 @@ Atualmente trabalho e estudo com **Node.js, Express, Sequelize, MySQL**, focando
 
 ---
 
-### 🛠️ Tecnologias que uso no dia a dia
-<div style="display: inline_block"><br>
-  <img align="center" alt="JavaScript" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+### 🚀 Tecnologias & Ferramentas
+<div align="center">
 
-  <img align="center" alt="Node.js" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
+![Sequelize](https://img.shields.io/badge/Sequelize-000?style=for-the-badge&logo=sequelize)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk)
 
-  <img align="center" alt="Express" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-
-  <img align="center" alt="Sequelize" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg">
-
-  <img align="center" alt="MySQL" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-
-  <img align="center" alt="Java" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
 ---
 
+### 🐍 Minha atividade no GitHub
+<p align="center">
+  <img src="https://github.com/virissimo-djedjo/virissimo-djedjo/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
+</p>
+
+---
+
 ### 🌍 Onde me encontrar
-<div> 
+<div align="center"> 
   <a href="mailto:djedjovirissimo450@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
@@ -52,4 +50,4 @@ Atualmente trabalho e estudo com **Node.js, Express, Sequelize, MySQL**, focando
 
 ---
 
-✨ *Sempre aprendendo, evoluindo e construindo soluções backend com boas práticas.*
+✨ *Sempre aprendendo, evoluindo e construindo soluções backend.*

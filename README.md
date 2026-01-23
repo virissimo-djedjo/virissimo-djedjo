@@ -30,13 +30,6 @@ Trabalho com criação de **APIs REST**, autenticação, regras de negócio e in
 
 ---
 
-### 🐍 Minha atividade no GitHub
-<p align="center">
-  <img src="https://raw.githubusercontent.com/virissimo-djedjo/virissimo-djedjo/output/github-contribution-grid-snake.svg">
-</p>
-
----
-
 ### 🌍 Onde me encontrar
 <div align="center"> 
   <a href="mailto:djedjovirissimo450@gmail.com">

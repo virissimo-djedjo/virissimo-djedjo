@@ -32,7 +32,7 @@ Trabalho com criação de **APIs REST**, autenticação, regras de negócio e in
 
 ### 🐍 Minha atividade no GitHub
 <p align="center">
-  <img src="https://github.com/virissimo-djedjo/virissimo-djedjo/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
+  <img src="https://raw.githubusercontent.com/virissimo-djedjo/virissimo-djedjo/output/github-contribution-grid-snake.svg">
 </p>
 
 ---

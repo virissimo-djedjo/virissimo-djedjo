@@ -1,5 +1,14 @@
-## Oiii 👋 eu sou o Virissimo Djedjo  
-💻 Desenvolvedor Backend | Node.js | Next.js | Express | Sequelize
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=339933&background=00000000&center=true&vCenter=true&width=435&lines=Oiii+%F0%9F%91%8B+eu+sou+o+Virissimo+Djedjo;%F0%9F%92%BB+Desenvolvedor+Backend" alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center">
+  <b>Node.js | Next.js | Express | Sequelize</b>
+</div>
+
+<br/>
 
 Sou apaixonado por tecnologia e desenvolvimento backend.  
 Trabalho com criação de **APIs REST**, autenticação, regras de negócio e integração com banco de dados, sempre focando em boas práticas 🚀  
@@ -9,15 +18,18 @@ Trabalho com criação de **APIs REST**, autenticação, regras de negócio e in
 ### 📊 Minha Evolução (Stats)
 <div align="center">
   <a href="https://github.com/virissimo-djedjo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=virissimo-djedjo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virissimo-djedjo&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=virissimo-djedjo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virissimo-djedjo&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=1800"/>
   </a>
 </div>
 
-### ⏳ Tempo de Codificação (WakaTime)
+> *Nota: Se as imagens acima não carregarem, é uma instabilidade temporária do serviço externo. Tente atualizar a página mais tarde.*
+
 ---
 
 ### 🚀 Tecnologias & Ferramentas
+*Clique nos ícones para ver a documentação oficial.*
+
 <div align="center">
 
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
@@ -60,4 +72,6 @@ Trabalho com criação de **APIs REST**, autenticação, regras de negócio e in
 
 ---
 
+<div align="center">
 ✨ *Sempre aprendendo, evoluindo e construindo soluções backend.*
+</div>

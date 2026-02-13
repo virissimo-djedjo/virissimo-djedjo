@@ -15,18 +15,6 @@ Trabalho com criação de **APIs REST**, autenticação, regras de negócio e in
 
 ---
 
-### 📊 Minha Evolução (Stats)
-<div align="center">
-  <a href="https://github.com/virissimo-djedjo">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=virissimo-djedjo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virissimo-djedjo&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=1800"/>
-  </a>
-</div>
-
-> *Nota: Se as imagens acima não carregarem, é uma instabilidade temporária do serviço externo. Tente atualizar a página mais tarde.*
-
----
-
 ### 🚀 Tecnologias & Ferramentas
 *Clique nos ícones para ver a documentação oficial.*
 

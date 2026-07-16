@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <b>Node.js | Next.js | Express | Sequelize</b>
+  <b>Node.js | Next.js | Express | Sequelize | PostgresSQL</b>
 </div>
 
 <br/>
